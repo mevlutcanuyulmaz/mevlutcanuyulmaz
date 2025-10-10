@@ -26,5 +26,6 @@ I also have strong experience in **Web Development** and **Frontend Technologies
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mevlutcanuyulmaz&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcanuyulmaz&layout=compact&theme=github_dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mevlutcanuyulmaz&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevlutcanyuylmaz&theme=github-dark&hide_border=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobile+Developer;Frontend+Developer;React+Native+%7C+TypeScript)
 
