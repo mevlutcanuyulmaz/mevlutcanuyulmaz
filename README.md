@@ -26,6 +26,7 @@ I also have strong experience in **Web Development** and **Frontend Technologies
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mevlutcanuyulmaz&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevlutcanuyulmaz&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mevlutcanyulmaz&theme=tokyonight&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mevlutcanyulmaz&theme=github-dark&hide_border=true)
+
 
 
